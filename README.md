@@ -1,5 +1,5 @@
 # numpy.random
-An investigation into the numpy.random package
+An investigation into the numpy.random package - assignment for Programming for Data Analysis
 
 The assignment in this repository is based on the numpy random package in Python.  The body of the assignment is on the *anscombe* jupyter notebook.
 
