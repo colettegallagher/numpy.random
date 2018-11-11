@@ -1,5 +1,5 @@
 # numpy.random
-An investigation into the numpy.random package - assignment for Programming for Data Analysis
+# An investigation into the numpy.random package - assignment for Programming for Data Analysis
 
 The assignment in this repository is based on the numpy random package in Python.  The body of this assignment is on a jupyter notebook.
 
@@ -9,8 +9,6 @@ This notebook contains the following information:
 3.  The use of the *Permutations* Function
 4.  The use and purpose of the *Distributions* Functions with examples given
 5.  The use of seeds in generating pseudorandom numbers
-
-# Anscombe's Quartet - Assignment for Fundamentals of Data Analysis
 
 ## How to view Jupyter Notebook in this Repository
 
