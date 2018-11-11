@@ -39,7 +39,7 @@ The Anaconda file will be in the downloads folder.  Click on the file and run pr
 
 ![CMDER](https://github.com/colettegallagher/anscombes/blob/master/cmder.JPG)
 
-o download CMDER full version (unzip) [CMDER](http://cmder.net/)
+To download CMDER full version (unzip) [CMDER](http://cmder.net/)
 
 ## Assignment
 
