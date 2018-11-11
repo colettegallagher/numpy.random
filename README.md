@@ -43,4 +43,4 @@ To download CMDER full version (unzip) [CMDER](http://cmder.net/)
 
 ## Assignment
 
-The assignment can be viewed on GITHUB [anscombes](https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb)
+The assignment can be viewed on GITHUB [numpy.random](https://github.com/colettegallagher/numpy.random/blob/master/numpy.random.ipynb)
