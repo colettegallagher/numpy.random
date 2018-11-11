@@ -43,16 +43,17 @@ o download CMDER full version (unzip) [CMDER](http://cmder.net/)
 
 ## Assignment
 
-The assignment can be viewed on GITHUB [anscombes](https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb)
+The assignment can be viewed on GITHUB [numpy.random](https://github.com/colettegallagher/numpy.random/blob/master/numpy.random.ipynb)
 
 ### Running the Codes
 
-The assignment, in text format, can be found at [anscombes](https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb).  
+The assignment, in text format, can be found at [numpy.random](https://github.com/colettegallagher/numpy.random/blob/master/numpy.random.ipynb)
+
 #### To download and open in jupyter notebook
 
  - Open CMDER on the start menu
  - Type 'cd' then space and the destination file on the PC where the file is to be open eg c:/new folder/new file
- - Type 'Git Pull https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb
+ - Type 'Git Pull https://github.com/colettegallagher/numpy.random/blob/master/numpy.random.ipynb
    This will pull the file on to the PC from Github
  - Type 'jupyter notebook' to open jupyter on the PC and the pulled file should be on the notebook
  
